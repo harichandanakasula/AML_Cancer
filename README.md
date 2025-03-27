@@ -5,7 +5,7 @@ This repository contains exploratory data analysis (EDA) on the 2024 EPA county-
 Files Included:
 - EDA.ipynb – Cleaned and visualized notebook
 - annual_aqi_by_county_2024.csv – EPA AQI dataset (county level)
-- annual_conc_by_monitor_2024.zip – Compressed concentration data (uploaded due to GitHub file size limits)
+- annual_conc_by_monitor_2024.zip – Compressed concentration data 
 
 Key Tasks Performed:
 - Data cleaning (handling missing values, outliers, duplicates)
