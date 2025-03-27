@@ -3,7 +3,7 @@ Air Quality EDA – AML Project
 This repository contains exploratory data analysis (EDA) on the 2024 EPA county-level air quality dataset. The goal is to identify regions with poor air quality that may be linked to long-term health risks.
 
 Files Included:
-- air_quality_eda_hari_chandana.ipynb – Cleaned and visualized notebook
+- EDA.ipynb – Cleaned and visualized notebook
 - annual_aqi_by_county_2024.csv – EPA AQI dataset (county level)
 - annual_conc_by_monitor_2024.zip – Compressed concentration data (uploaded due to GitHub file size limits)
 
